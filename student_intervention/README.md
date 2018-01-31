@@ -1,11 +1,9 @@
-# Machine Learning Engineer Nanodegree
-# Supervised Learning
-
-## Project: Building a Student Intervention System
+# Project: Building a Student Intervention System
 
 
-### Install
+## Install
 
+:
 This project requires **Python 2.7** and the following Python libraries installed:
 
 - 
@@ -23,14 +21,11 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 
 
-### Code
-
-Template code is provided in the `student_intervention.ipynb` notebook file. You will also be required to use the `student-data.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
-
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `student_intervention/` (that contains this README) and run one of the following commands:
+In:
+a terminal or command window, navigate to the top-level project directory `student_intervention/` (that contains this README) and run one of the following commands:
 
 ```bash
 ipython notebook student_intervention.ipynb
