@@ -3,7 +3,7 @@
 
 ### Install
 
-: 
+
 This project requires **Python 2.7** and the following Python libraries installed:
 - [NumPy](http://www.numpy.org/)
 
@@ -22,7 +22,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Run
 
-:
+
 In a terminal or command window, navigate to the top-level project directory `student_intervention/` (that contains this README) and run one of the following commands:
 
 ```bash
